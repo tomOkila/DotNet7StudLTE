@@ -1,5 +1,7 @@
-# DotNet7StudLTE
 ASP.NET Core Complete Student CRUD Without Entity Framework - .NET 7
+
+![Special student](https://github.com/tomOkila/DotNet7StudLTE/assets/7823619/bbaa5787-de5b-435c-baff-c3121f8b8f59)
+
 * Hello and Thank You for purchasing this project about creating a simple CRUD using .NET7 and without Entity Framework 
 * Tools Required.
     - Visual Studio 2022
@@ -22,3 +24,6 @@ Below is the procedure for running the project
     Password: 123456
 
 * With everything set up correctly, you should be able to reach the dashboard as shown in the attached screen-screenshot and be able to explore other functionalities
+
+#![Inline Preview Image](https://github.com/tomOkila/DotNet7StudLTE/assets/7823619/06252049-2b46-4946-85ea-3446238c3266)
+
