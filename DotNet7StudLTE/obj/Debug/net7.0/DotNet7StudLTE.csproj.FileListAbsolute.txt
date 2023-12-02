@@ -1,0 +1,76 @@
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.AssemblyReference.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.GeneratedMSBuildEditorConfig.editorconfig
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.AssemblyInfoInputs.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.AssemblyInfo.cs
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.CoreCompileInputs.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.MvcApplicationPartsAssemblyInfo.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.RazorAssemblyInfo.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.RazorAssemblyInfo.cs
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\appsettings.Development.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\appsettings.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.staticwebassets.runtime.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.exe
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.deps.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.runtimeconfig.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.pdb
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.DotNet7StudLTE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNet7StudLTE.props
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNet7StudLTE.props
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNet7StudLTE.props
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.build.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.development.json
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\bundle\DotNet7StudLTE.styles.css
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\projectbundle\DotNet7StudLTE.bundle.scp.css
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.CopyComplete
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\refint\DotNet7StudLTE.dll
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.pdb
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.genruntimeconfig.cache
+D:\NEXTLEVEL\BLOG\APPS\PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\ref\DotNet7StudLTE.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\appsettings.Development.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\appsettings.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.staticwebassets.runtime.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.exe
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.deps.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.runtimeconfig.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\DotNet7StudLTE.pdb
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.AssemblyReference.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.GeneratedMSBuildEditorConfig.editorconfig
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.AssemblyInfoInputs.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.AssemblyInfo.cs
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.CoreCompileInputs.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.MvcApplicationPartsAssemblyInfo.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.RazorAssemblyInfo.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.RazorAssemblyInfo.cs
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.DotNet7StudLTE.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.build.DotNet7StudLTE.props
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DotNet7StudLTE.props
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DotNet7StudLTE.props
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.pack.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.build.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\staticwebassets.development.json
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\bundle\DotNet7StudLTE.styles.css
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\scopedcss\projectbundle\DotNet7StudLTE.bundle.scp.css
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.csproj.CopyComplete
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\refint\DotNet7StudLTE.dll
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.pdb
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\DotNet7StudLTE.genruntimeconfig.cache
+D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\obj\Debug\net7.0\ref\DotNet7StudLTE.dll

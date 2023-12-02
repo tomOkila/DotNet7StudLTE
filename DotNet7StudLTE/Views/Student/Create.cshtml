@@ -1,0 +1,105 @@
+﻿@model DotNet7StudLTE.Models.Student
+@{
+    Layout = "_LayoutDashBoard";
+    ViewData["CreateInfo"] = "Display all the students that have been registered in the system for tracking and management.";
+}
+
+<!-- Content Header (Page header) -->
+<div class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-12">
+                <ol class="breadcrumb float-sm-right">
+                    <li class="breadcrumb-item"><a href="Index">Home</a></li>
+                    <li class="breadcrumb-item active">Create Student</li>
+                </ol>
+            </div><!-- /.col -->
+        </div><!-- /.row -->
+    </div><!-- /.container-fluid -->
+</div>
+<!-- /.content-header -->
+
+<section class="content">
+    <div class="row">
+        <div class="col-md-9">
+
+            <form asp-action="Create">
+                <div class="card card-outline card-info">
+                    <div class="card-header">
+                        <h1 class="card-title">
+                            <b><h4><i class="fas fa-user-graduate"></i> Create Student</h4></b>
+                        </h1>
+                    </div>
+                    <!-- /.card-header -->
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-md-12">
+
+                                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                                <input type="hidden" asp-for="StudentID" />
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label asp-for="FirstName" class="control-label"></label>
+                                            <input asp-for="FirstName" class="form-control" />
+                                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label asp-for="Surname" class="control-label"></label>
+                                            <input asp-for="Surname" class="form-control" />
+                                            <span asp-validation-for="Surname" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+                               
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label asp-for="DepartmentID" class="control-label"></label>
+                                            <select asp-for="DepartmentID" class="form-control select2" asp-items="ViewBag.DepartmentID"></select>
+                                            <span asp-validation-for="DepartmentID" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <!-- Date and time -->
+                                        <div class="form-group">
+                                            <label asp-for="Birthday" class="control-label"></label>
+                                            <div class="input-group date" id="reservationdatetime" data-target-input="nearest">
+                                                <input asp-for="Birthday" value="@DateTime.Now.ToString("MM/dd/yyyy HH mm")" class="form-control datetimepicker-input" data-target="#reservationdatetime" type="text" />
+                                                <div class="input-group-append" data-target="#reservationdatetime" data-toggle="datetimepicker">
+                                                    <div class="input-group-text"><i class="fa fa-calendar"></i></div>
+                                                </div>
+                                                <span asp-validation-for="Birthday" class="text-danger"></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                              
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="card-footer">
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-primary"><i class="fas fa-plus"></i> Create</button>
+                            <a asp-action="Index" class="btn btn-default">Back to List</a>
+                        </div>
+                    </div>
+                </div>
+            </form>
+
+        </div>
+        <div class="col-md-3">
+            <div class="callout callout-info" style="margin-bottom: 0!important;">
+                <h4><i class="fa fa-info"></i> Info:</h4>
+                <p>
+                    @ViewBag.CreateInfo
+                </p>
+            </div>
+        </div>
+    </div>
+
+</section>
+

@@ -1,0 +1,69 @@
+﻿@inject IHttpContextAccessor httpContextAccessor
+@{
+    var UserID = httpContextAccessor.HttpContext.Session.GetString("UserID");
+    var FullName = httpContextAccessor.HttpContext.Session.GetString("FullName");
+    var Email = httpContextAccessor.HttpContext.Session.GetString("Email");
+}
+
+ <!-- Navbar -->
+<nav class="main-header navbar navbar-expand navbar-dark">
+    <!-- Left navbar links -->
+    <ul class="navbar-nav">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
+        </li>-
+    </ul>
+
+    <!-- Right navbar links -->
+    <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+            <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button">
+                <i class="fas fa-th-large"></i>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" data-widget="fullscreen" href="#" role="button">
+                <i class="fas fa-expand-arrows-alt"></i>
+            </a>
+        </li>
+        <!-- Notifications Dropdown Menu -->
+        <li class="dropdown user user-menu" style="padding-top:10px;color:white">
+            <a href="~/dist/img/empty-profile.png" class="dropdown-toggle" data-toggle="dropdown">
+                <img src="~/dist/img/empty-profile.png" class="profile-picture user-image" alt="User Image">
+                <span style="color:white" class="profile-fullName hidden-xs">@FullName</span>
+
+            </a>
+            <ul class="dropdown-menu">
+                <!-- User image -->
+                <li class="user-header">
+                    <img src="~/dist/img/empty-profile.png" class="profile-picture img-circle" alt="User Image">
+                    <p>
+                        <span>@FullName</span><br />
+                        <medium>@Email</medium>
+                    </p>
+                </li>
+
+                <!-- Menu Footer-->
+                <li class="user-footer">
+                    <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" id="logoutForm">
+                       @* <div class="pull-left" style="float:left;">
+                                <a asp-controller="Account" asp-action="ChangePassword" class="btn btn-default btn-flat">Profile</a>
+                         </div>*@
+                        <div class="pull-right" style="float:right;">
+                            <button type="submit" class="btn btn-default btn-flat">
+                                <i class="fa fa-sign-out" aria-hidden="true"></i>
+                                Log out
+                            </button>
+                        </div>
+                    </form>
+
+                </li>
+
+            </ul>
+        </li>
+
+
+
+    </ul>
+</nav>
+<!-- /.navbar -->

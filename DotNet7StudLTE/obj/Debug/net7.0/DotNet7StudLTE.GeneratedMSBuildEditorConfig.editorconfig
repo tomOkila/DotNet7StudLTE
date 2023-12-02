@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DotNet7StudLTE
+build_property.RootNamespace = DotNet7StudLTE
+build_property.ProjectDir = D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\APP DEVELOPMENT\WEB DEV\BLOG PROJECTS\DotNet7StudLTE\DotNet7StudLTE
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_AsideMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Bc2lkZU1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_BasicScripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNpY1NjcmlwdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_BasicScriptsDataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNpY1NjcmlwdHNEYXRhVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_BasicStyles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNpY1N0eWxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_BasicStylesDataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNpY1N0eWxlc0RhdGFUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_ControlSidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db250cm9sU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_LayoutDashBoard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREYXNoQm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_LayoutDashBoardDataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXREYXNoQm9hcmREYXRhVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_StatusMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdGF0dXNNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_TopNavBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub3BOYXZCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/DetailsInactive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzSW5hY3RpdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Student/SingleDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTaW5nbGVEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/APP DEVELOPMENT/WEB DEV/BLOG PROJECTS/DotNet7StudLTE/DotNet7StudLTE/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-h925oofnxm
